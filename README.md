@@ -1,4 +1,3 @@
-# magento2-production-architecture-guide
 # Production-Ready Magento 2 Deployment Architecture Guide
 
 [![Debian](https://img.shields.io/badge/Debian_12-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
